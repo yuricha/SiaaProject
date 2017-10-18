@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1508182158034_0" label="SiaaProject" name="SiaaProject">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RestServices" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BusinessLogic" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BusinessLogicImpl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DataAccess" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DataAccessImpl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Repository" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RepositoryImpl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Domain" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RestController" type="4"/>
+</workingSet>
+</workingSetManager>

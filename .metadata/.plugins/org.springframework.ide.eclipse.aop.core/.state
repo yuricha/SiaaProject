@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Common"/>
+<aop-project name="RestServices"/>
+<aop-project name="BusinessLogic"/>
+<aop-project name="BusinessLogicImpl"/>
+<aop-project name="DataAccess"/>
+<aop-project name="RepositoryImpl"/>
+<aop-project name="Repository"/>
+<aop-project name="RestController"/>
+<aop-project name="Domain"/>
+<aop-project name="DataAccessImpl"/>
+</aop-reference-model>

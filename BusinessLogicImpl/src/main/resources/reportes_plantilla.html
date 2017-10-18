@@ -1,0 +1,107 @@
+<html>
+<head>
+<style>
+body{
+	font-family: "Arial";
+	font-size:14px;
+	color:#666666;
+	margin:0;
+	padding:0;
+}
+
+.header, .body, .footer {
+	width:1024px;
+	margin: 0 auto;
+}
+
+.header {
+	height: 80px;
+	
+}
+
+.logo{
+	height:40px;
+	
+	width:170px;
+	float:left;
+	padding:20px;
+}
+
+.title{
+	height:40px;
+	
+	width:564px;
+	float:left;
+	text-align:center;
+	padding:20px;
+	font-size:18px;
+}
+
+.info{
+	height:40px;
+	
+	width:170px;
+	float:left;
+	padding:20px;
+	
+}
+
+.body{
+	clear: both;
+	
+}
+.table_principal{
+	width:100%;
+	background-color:#C1C1C1;
+	border-spacing: 1px;
+    border-collapse: separate;
+}
+.table_principal .tr_principal{
+	text-align:left;
+}
+
+.table_principal .tr_principal th{
+	padding:10px 7px;
+	background-color:#F5F5F5;
+	font-size:14px;
+}
+
+.table_principal td{
+	background-color:#FAFAFA;
+	padding:7px;
+	font-size:14px;
+}
+.footer{
+	width:984px;
+	
+	height:20px;
+	padding:20px;
+	text-align:right;
+}
+</style>
+</head>
+<body>
+<div class="header">
+	<div class="logo">Logo</div>
+	<div class="title">$REPORTE_TITULO</div>
+	<div class="info">
+		<div class="user">
+			Usuario : $USUARIO
+		</div>
+		<div>
+			Fecha : $FECHA $HORA
+		</div>
+	</div>
+<div class="body">
+	<table class="table_principal">
+		<tr class="tr_principal">
+		    $NOMBRE_COLUMNAS
+		</tr>
+		$FILAS
+	</table>
+</div>
+<div class="footer">
+	Copyright - Restaurante 
+</div>
+</body>
+</html>

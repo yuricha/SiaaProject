@@ -1,0 +1,12 @@
+#Tomcat publish data
+#Mon Oct 16 14:50:16 COT 2017
+org.eclipse.jst.j2ee.server\:BusinessLogicImpl=WEB-INF/lib/BusinessLogicImpl-1.0.jar
+org.eclipse.jst.j2ee.server\:DataAccessImpl=WEB-INF/lib/DataAccessImpl-1.0.jar
+org.eclipse.jst.j2ee.server\:Domain=WEB-INF/lib/Domain-1.0.jar
+org.eclipse.jst.j2ee.server\:RepositoryImpl=WEB-INF/lib/RepositoryImpl-1.0.jar
+org.eclipse.jst.j2ee.server\:DataAccess=WEB-INF/lib/DataAccess-1.0.jar
+org.eclipse.jst.j2ee.server\:Common=WEB-INF/lib/Common-1.0.jar
+org.eclipse.jst.j2ee.server\:RestController=WEB-INF/lib/RestController-1.0.jar
+org.eclipse.jst.j2ee.server\:Repository=WEB-INF/lib/Repository-1.0.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Yuri\\.m2\\repository\\org\\springframework\\spring-web\\4.1.6.RELEASE\\spring-web-4.1.6.RELEASE.jar=WEB-INF/lib/spring-web-4.1.6.RELEASE.jar
+org.eclipse.jst.j2ee.server\:BusinessLogic=WEB-INF/lib/BusinessLogic-1.0.jar

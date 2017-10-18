@@ -1,0 +1,41 @@
+*~
+.DS_Store
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+/BusinessLogic/BusinessLogic.iml
+/BusinessLogicImpl/BusinessLogicImpl.iml
+/Common/Common.iml
+/DataAccess/DataAccess.iml
+/DataAccessImpl/DataAccessImpl.iml
+/Domain/Domain.iml
+/Repository/Repository.iml
+/RepositoryImpl/RepositoryImpl.iml
+/RestController/RestController.iml
+/RestServices/RestServices.iml
+/RepositoryImpl/target/classes/pe/
+
+

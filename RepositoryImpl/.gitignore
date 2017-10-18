@@ -1,0 +1,6 @@
+/target/src/main/resources/persistence.properties
+#/src/main/resources/persistence.properties
+/target/
+/.metadata/
+/RemoteSystemsTempFiles/
+/Servers/
